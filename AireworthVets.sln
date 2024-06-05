@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AireworthVets", "AireworthVets\AireworthVets.csproj", "{1C648368-B630-47F2-BE07-83C456618B1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AireworthVetsTests", "AireworthVetsTests\AireworthVetsTests.csproj", "{AC7989F8-CD5F-4103-8AE8-8B41841EEF2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C648368-B630-47F2-BE07-83C456618B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C648368-B630-47F2-BE07-83C456618B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C648368-B630-47F2-BE07-83C456618B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C648368-B630-47F2-BE07-83C456618B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC7989F8-CD5F-4103-8AE8-8B41841EEF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7989F8-CD5F-4103-8AE8-8B41841EEF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7989F8-CD5F-4103-8AE8-8B41841EEF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7989F8-CD5F-4103-8AE8-8B41841EEF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43E7A04A-E651-45CE-9CD7-70147819CC5B}
+	EndGlobalSection
+EndGlobal
